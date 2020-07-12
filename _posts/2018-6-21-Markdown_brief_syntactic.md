@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown 语法简明笔记"
 date:   2018-6-21
-tags: [markdown]
+categories: [markdown]
 comments: true
 author: lemonchann
 toc: true
